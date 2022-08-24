@@ -1,4 +1,4 @@
-# **GitFav**
+# 🔗 <a href="https://rodrigoluigi.github.io/Github-Favorites/">**GitFav**</a>
 
 ### 📌 Projeto de uma aplicação para buscar dados de usuários do Github e exibi-los em uma tabela com base em layout do figma.
 
