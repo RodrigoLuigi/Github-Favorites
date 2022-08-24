@@ -49,4 +49,4 @@
 
 ## Screenshots
 
-<img src="./assets/gitfav.png">
+<img src="./assets/images/gitfav.png">
