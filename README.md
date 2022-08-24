@@ -1,7 +1,8 @@
-# 🔗 <a href="https://rodrigoluigi.github.io/Github-Favorites/">**GitFav**</a>
+# **GitFav**
 
 ### 📌 Projeto de uma aplicação para buscar dados de usuários do Github e exibi-los em uma tabela com base em layout do figma.
 
+🔗 Link-> <a href="https://rodrigoluigi.github.io/Github-Favorites/">Github Favorites</a>
 # <br><img src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
 
  Foi desenvolvido uma página em HTML, CSS, e JavaScript. Trabalhamos conceitos de POO (programação orientada a objetos) , modulação do JavaScript, , funções assincronas (asyc / await), Promises, Classes , herança e o que é polimorfismo, imutabilidade de dados, tratamentos de erros de aplicação utilizando métodos try/catch e throw, e armazenamento de dados em localStorage.
